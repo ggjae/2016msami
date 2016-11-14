@@ -1,8 +1,6 @@
-# 25 - MSAMI
-{: .text-center }
+#25 - MSAMI
 ### member : 김동규, 김민상, 박재용
-<img src="http://postfiles5.naver.net/MjAxNjExMTRfMjU2/MDAxNDc5MTIzNzA2MTQz.qufEjEQgnduGwu9bSrtiHwBgrKpOrzldRZOZoOME-qIg.8MvaY1VSh6N4BYl-t5adAqnklUW5lK5bVFE2XHpkHnYg.PNG.msmghjjm/gitprojectlogo.png?type=w2" height = "200" >
-{: .aligncenter } 
+<div align="center"><img src="http://postfiles5.naver.net/MjAxNjExMTRfMjU2/MDAxNDc5MTIzNzA2MTQz.qufEjEQgnduGwu9bSrtiHwBgrKpOrzldRZOZoOME-qIg.8MvaY1VSh6N4BYl-t5adAqnklUW5lK5bVFE2XHpkHnYg.PNG.msmghjjm/gitprojectlogo.png?type=w2" height = "200" ></div>
 ## 안드로이드 어플리케이션 개발
 이미 한양대생들을 위한 '셔틀콕'이라던지, 한양대학교 모바일 어플리케이션 등 많은 어플리케이션이 있습니다.
 

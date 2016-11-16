@@ -15,12 +15,12 @@ Our Wiki's are here.
 [Click] (https://github.com/ggjae/2016msami/wiki)
 
 
-<Programming Language>
+<< Programming Language >>
 
-: JAVA(But we can change other language)
+: JAVA
 
 
-<Reference>
+<< Reference >>
 
 : Android App Developing
 

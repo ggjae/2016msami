@@ -31,3 +31,8 @@ Our Wiki's are here.
 ## 2016.11.16
 
 	* make README korean to english.
+
+## 2016.11.22
+
+	* we upload msami.alpha version
+	  This app is our first try app

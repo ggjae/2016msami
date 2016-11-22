@@ -36,3 +36,8 @@ Our Wiki's are here.
 
 	* we upload msami.alpha version
 	  This app is our first try app
+
+## 2016.11.23
+
+	* we upload msami.beta version
+	  we add loading screen and motify some texts

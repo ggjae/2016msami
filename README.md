@@ -41,3 +41,8 @@ Our Wiki's are here.
 
 	* we upload msami.beta version
 	  we add loading screen and motify some texts
+
+## 2016.11.23
+
+	* we doing presentation
+	* we talk about our app direction

@@ -46,3 +46,8 @@ Our Wiki's are here.
 
 	* we doing presentation
 	* we talk about our app direction
+
+## 2016.12.06
+
+	* we add our teaminfo to app
+	* we add exit button

@@ -55,4 +55,9 @@ Our Wiki's are here.
 ## 2016.12.20
 
 	* we upload forpresent folder
+	* we upload msami.delta version
 	* we going to final
+
+	*delta version
+		- we make app design and show app information and our developer info
+		- now we do not change our app version(delta) but steel update

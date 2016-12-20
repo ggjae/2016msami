@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="comggjae2016msami.httpsgithub.msamibeta.MainActivity">
+
+    <TextView
+        android:text="한양대학교 학생들을 위한"
+        android:textSize="28dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="360dp"
+        android:layout_height="80dp"
+        android:background="@color/colorPrimary"
+        android:id="@+id/textView4"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:src="@drawable/ic_info_icon"
+        android:id="@+id/어플정보"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="어플정보"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:id="@+id/어플정보txt"
+        android:layout_below="@+id/textView4"
+        android:layout_toEndOf="@+id/어플정보" />
+
+    <Button
+        android:text="학 식"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/button"
+        android:layout_gravity = "center"
+        android:layout_marginBottom="85dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button2" />
+
+    <Button
+        android:text="시간표"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/button2"
+        android:onClick="onClick"
+        android:layout_gravity = "center"
+        android:layout_above="@+id/button"
+        android:layout_toEndOf="@+id/어플정보" />
+
+    <Button
+        android:text="셔틀(평일)"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:id="@+id/button3"
+        android:onClick="onClick03"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button" />
+
+    <Button
+        android:text="셔틀(주말)"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:layout_alignBaseline="@+id/button3"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_alignEnd="@+id/button"
+        android:onClick="onClick04" />
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:src="@drawable/ic_mark"
+        android:background="#00000000"
+        android:id="@+id/imageButton"
+        android:layout_below="@+id/어플정보"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

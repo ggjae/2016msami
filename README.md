@@ -1,5 +1,7 @@
 #25 - MSAMI
-### member : DongGyu Kim, MinSang Kim, JaeYong Park
+### Project name :Better HY Better life
+### TEAM NAME : 2016MSAMI
+### Member : DongGyu Kim, MinSang Kim, JaeYong Park
 
 <div align="center"><img src="http://postfiles5.naver.net/MjAxNjExMTRfMjU2/MDAxNDc5MTIzNzA2MTQz.qufEjEQgnduGwu9bSrtiHwBgrKpOrzldRZOZoOME-qIg.8MvaY1VSh6N4BYl-t5adAqnklUW5lK5bVFE2XHpkHnYg.PNG.msmghjjm/gitprojectlogo.png?type=w2" height = "200" ></div>
 ## Developing Android Application
@@ -17,8 +19,10 @@ Our Wiki's are here.
 
 << Programming Language >>
 
-: JAVA
+: JAVA & XML
 
+<< LICENSE >>
+: Apache 2.0
 
 << Reference >>
 
@@ -61,3 +65,8 @@ Our Wiki's are here.
 	*delta version
 		- we make app design and show app information and our developer info
 		- now we do not change our app version(delta) but steel update
+
+## 2016.12.21
+<img src="http://postfiles9.naver.net/MjAxNjEyMjFfMjk3/MDAxNDgyMjc3MjY4NTgz.kPr81SRHdZ8jNYMgGFCULoo6n0Nu65HLSjimoaN9820g.ERJ9oNz5XtPLPEp6euZdW4n-Sl98XVZ1COuTiOfWwW8g.GIF.4654aa/%EB%8F%99%EA%B7%9C%EC%95%BC.GIF?type=w2" height="200">
+	* we upload msami.errormodify version
+	* we upload msami.delta5 version

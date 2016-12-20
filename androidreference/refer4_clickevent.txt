@@ -1,0 +1,12 @@
+jizard.tistory.com/9
+
+
+Uri uri = Uri.parse("원하시는 url 주소");
+
+Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+
+intent.addCategory(Intent.CATEGORY_BROWSABLE);
+
+startActivity(intent);
+
+

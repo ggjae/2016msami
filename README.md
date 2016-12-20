@@ -51,3 +51,8 @@ Our Wiki's are here.
 
 	* we add our teaminfo to app
 	* we add exit button
+
+## 2016.12.20
+
+	* we upload forpresent folder
+	* we going to final

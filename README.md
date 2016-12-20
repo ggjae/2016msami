@@ -16,7 +16,7 @@ We will find some useful apps in git, make plans and designs.
 Our Wiki's are here.
 [Click] (https://github.com/ggjae/2016msami/wiki)
 
-# annotation -> C:\Users\samsung\2016msami\msami.delta5.errormodify\app\src\main\java\comggjae2016msami\httpsgithub\msamibeta
+## annotation -> C:\Users\samsung\2016msami\msami.delta5.errormodify\app\src\main\java\comggjae2016msami\httpsgithub\msamibeta
 
 ## After We....
 

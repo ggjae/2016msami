@@ -10,7 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.net.URL;
-
+// 메인액티비티로써, 버튼 1,2,3,4를 만들고, 이미지버튼은 따른 타입으로 또 btinfo라고 하나 만든다. findViewById를 통해 id로 button을 인식하고, Button이 실행 될때마다
+// 밑에 onClick switch 문에 의해 버튼에 따라 다른 activity를 하게된다. 이떄 이 activity는 버튼에 상황에 맞는 역할을 하고, 나머지 activity들은 
+// onClick의 Intent 객체를 선언할때 필요한 인수이여서 activity를 제작했다.
 public class MainActivity extends AppCompatActivity {
     Button bt1,bt2,bt3,bt4;
     ImageButton btinfo;
@@ -27,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         bt3.setOnClickListener(listener);
         bt4 = (Button)findViewById(R.id.button4);
         bt4.setOnClickListener(listener);
-        btinfo = (ImageButton)findViewById(R.id.어플정보);
+        btinfo = (ImageButton)findViewById(R.id.�뼱�뵆�젙蹂�);
         btinfo.setOnClickListener(listener);
     }
     Button.OnClickListener listener = new Button.OnClickListener()
@@ -55,12 +57,12 @@ public class MainActivity extends AppCompatActivity {
                     Intent myintent4 = new Intent(MainActivity.this, Button4Activity.class);
                     startActivity(myintent4);
                     break;
-                case R.id.어플정보:
+                case R.id.�뼱�뵆�젙蹂�:
                     Intent myintent5 = new Intent(MainActivity.this, InfoActivity.class);
                     startActivity(myintent5);
                     break;
 
-//case문이 들어갑니다
+//case臾몄씠 �뱾�뼱媛묐땲�떎
 
 
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:textSize="20dp"
+        android:text="Developer"
+        android:layout_width="111dp"
+        android:layout_height="54dp"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:text="Team MSAMI
+            KimMinsang
+            KimDongkyu
+            ParkJaeyong"
+        android:layout_width="179dp"
+        android:layout_height="77dp"
+        android:id="@+id/textView4" />
+
+    <Button
+        android:text="종료"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:onClick="onClick"/>
+</LinearLayout>

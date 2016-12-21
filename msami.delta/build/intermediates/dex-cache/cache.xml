@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_60866509f8b8a014452941bb05f0eb95e1f3cd73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11ed8e23dc71328c4ecf5aa545f0ae4319a9acaf">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42e64425c2742cf8a0c07c61a7bb657ef03125de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c1645bc0f78912049f5e1ed72c76ba09a4a5b7b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_e9c687e5ce906bcab6037bd8dfe3bb0e03d65a5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c03d915d0a2999ddfacda624c1ca3cf7a56d0902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_167cf7244adcb1efe187ddd795b8b52a362726f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e4db935e1b15c61f592ea4363e1bbbd98a5e3ebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_b1c6b9759671999693e7e04d26331ab45a702e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_a4bdaa88f3b7017b3d1e94a2cd08416272cdac77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_83db3e794cb214a9e35cab04b9d6ebe68ddac709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_74bb32cfd5f527b6f3994ae54a376dadb3b48a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ebf8a975be389b4055bfa1193d4e030f0ccbf56">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe082f464a8ebfa5439b551200c171465376780b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_6c1a1079ec6f558a1e41cc88e84188ec02076935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_09f15b029d27e27898840179ae5956718b1fd904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_76da737673183c6cea4727de073cc9d4e054d6b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_90b51b37ea7e13e161f7c3ff86615f281d42f592/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_d0dcf7d7fb9805a04f503d5721096fb35b6f6d1f/classes.dex" />
+    </item>
+
+</items>

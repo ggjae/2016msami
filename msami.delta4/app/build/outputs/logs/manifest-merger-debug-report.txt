@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:5:5-49:19
+MERGED from [com.android.support:design:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:8:9-30
+	android:supportsRtl
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:7:9-42
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:10:9-40
+activity#comggjae2016msami.httpsgithub.msamibeta.SplashActivity
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:12:9-15:62
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:13:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:14:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:15:13-60
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:12:19-49
+activity#comggjae2016msami.httpsgithub.msamibeta.InfoActivity
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:17:9-20:46
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:18:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:19:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:17:19-47
+activity#comggjae2016msami.httpsgithub.msamibeta.FoodActivity
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:22:9-25:46
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:24:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:22:19-47
+activity#comggjae2016msami.httpsgithub.msamibeta.ShuttleActivity1
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:27:9-30:46
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:29:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:27:19-51
+activity#comggjae2016msami.httpsgithub.msamibeta.ShuttleActivity2
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:32:9-35:46
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:34:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:35:13-44
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:32:19-51
+activity#comggjae2016msami.httpsgithub.msamibeta.TimetableActivity
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:37:9-40:46
+	android:screenOrientation
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:38:13-49
+	android:configChanges
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:39:13-63
+	android:theme
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:37:19-52
+activity#comggjae2016msami.httpsgithub.msamibeta.MainActivity
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] /Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/AndroidManifest.xml

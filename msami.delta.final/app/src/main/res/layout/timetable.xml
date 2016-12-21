@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text=" 시간표"
+        android:textSize="28dp"
+        android:textColor="@color/colorWhite"
+        android:gravity="center_vertical"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"/>
+
+    <TextView
+        android:text="   컴퓨터공학과 1반 시간표"
+        android:textSize="13dp"
+        android:gravity="center_vertical"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="261dp"
+        android:src="@drawable/qwe"
+        android:id="@+id/imageView3" />
+</LinearLayout>

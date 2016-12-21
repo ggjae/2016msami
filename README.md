@@ -77,3 +77,4 @@ We have accumulated git for one semester, but as a result of this, we are going 
 <img src="http://postfiles6.naver.net/MjAxNjEyMjFfMTcx/MDAxNDgyMjc3MjY4ODE3.lj-zoOJ6-QlmT__TMEzrvxdbLonFWkAFJt9tmkOJstsg.MaewyPsZwStg2ThZYmIGNTF0ZbD5g3kWFvGrP3u8RhEg.GIF.4654aa/%EB%8F%99%EA%B7%9C%EC%95%BC2.GIF?type=w2" height="200">
 	* we upload msami.errormodify version
 	* we upload msami.delta5 version
+	* we upload msami.delta.final version

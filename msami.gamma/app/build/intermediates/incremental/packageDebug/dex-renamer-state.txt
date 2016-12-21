@@ -1,0 +1,7 @@
+#Tue Dec 06 11:12:50 KST 2016
+base.0=/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42e64425c2742cf8a0c07c61a7bb657ef03125de
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe082f464a8ebfa5439b551200c171465376780b/classes.dex
+base.1=/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe082f464a8ebfa5439b551200c171465376780b
+file.0=/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42e64425c2742cf8a0c07c61a7bb657ef03125de/classes.dex

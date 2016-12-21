@@ -1,7 +1,0 @@
-http://androidhuman.com/529
--
-explain androidstudio basic tools
-ex) project, module, gradle wrapper, bulid.gradle
-firstandroidstudio.iml
-gradlew/gradlew.bat etc ..
-

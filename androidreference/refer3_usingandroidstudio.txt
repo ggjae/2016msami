@@ -1,2 +1,0 @@
-http://wanochoi.com/?p=1899
-- make project, add class, add event etc..

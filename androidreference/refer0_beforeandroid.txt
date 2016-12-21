@@ -1,5 +1,0 @@
-step 0.
-before application developing -- 
-http://www.androidpub.com/588
-
-install Java SDK, Eclipse, Android SDK

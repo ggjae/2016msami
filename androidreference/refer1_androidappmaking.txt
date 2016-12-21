@@ -1,2 +1,0 @@
-app develop start, simple android app
-program making : http://shuman.tistory.com/120

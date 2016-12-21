@@ -1,3 +1,0 @@
-START develop android,
-android studio download
-https://developer.android.com/studio/index.html#win-bundle

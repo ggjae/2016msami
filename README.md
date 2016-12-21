@@ -16,8 +16,8 @@ We will find some useful apps in git, make plans and designs.
 Our Wiki's are here.
 [Click] (https://github.com/ggjae/2016msami/wiki)
 
-## annotation -> C:\Users\samsung\2016msami\msami.delta5.errormodify\app\src\main\java\comggjae2016msami\httpsgithub\msamibeta
-
+ annotation -> 2016msami\msami.delta5.errormodify\app\src\main\java\comggjae2016msami\httpsgithub\msamibeta
+ reference -> reference.txt
 ## After We....
 
 We have accumulated git for one semester, but as a result of this, we are going to accumulate more git space of ourselves, more effort and the organization's 2016msami gives us convenience to Hanyang University students , And it would be better to become an application that would affect other schools.

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text=" 학식"
+        android:textSize="28dp"
+        android:gravity="center_vertical"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:text="화요일"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/textView5" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:text="[특식] 돈육김치찌개 라면사리 - 3000원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="[양식] 순살파닭 치킨무 햄콘김치볶음밥 - 3500원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7" />
+
+    <TextView
+        android:text="수요일"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/textView3" />
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:text="[특식] 닭칼국수 동지팥죽 - 3000원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="[특식] 뚝배기불고기 동지팥죽 해물야 - 3500원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="목요일"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"/>
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="[특식] 제육불고기덮밥 - 3000원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="금요일"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"/>
+
+    <TextView
+        android:text="[특식] 치킨까스 추가밥 치즈맛감자튀김 미니온메밀국수 - 3500원"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"/>
+
+
+</LinearLayout>

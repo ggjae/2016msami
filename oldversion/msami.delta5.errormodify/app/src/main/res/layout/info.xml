@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        android:background="#00000000"
+        android:src="@drawable/ic_action_name"
+        android:onClick="onClick" />
+
+    <TextView
+        android:textSize="20dp"
+        android:text="APP INFO"
+        android:layout_width="111dp"
+        android:layout_height="54dp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_iconimg"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:text="버전"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"/>
+    <TextView
+        android:text="100.0.0.00.05 Delta"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:text="======================"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <TextView
+        android:text="개발자 소개"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:layout_height="20dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:text="김민상"
+        android:layout_height="20dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:text="김동규"
+        android:layout_height="20dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:text="박재용"
+        android:layout_height="20dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/imageView2" />
+
+    <TextView
+        android:text="OpenSource Team MSAMI"
+        android:textSize="9dp"
+        android:layout_height="10dp"
+        android:layout_width="150dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:text="       Hanyang University ERICA Campus"
+        android:textSize="9dp"
+        android:layout_height="12dp"
+        android:layout_width="180dp"
+        android:layout_gravity="center"/>
+
+
+
+</LinearLayout>

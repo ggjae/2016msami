@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_info_icon.png",
+        "source": "/Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/res/drawable-mdpi/ic_info_icon.png"
+    },
+    {
+        "merged": "/Users/kimminsang/AndroidStudioProjects/msami.beta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_name.png",
+        "source": "/Users/kimminsang/AndroidStudioProjects/msami.beta/app/src/main/res/drawable-mdpi/ic_action_name.png"
+    }
+]

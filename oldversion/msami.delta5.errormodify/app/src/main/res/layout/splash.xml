@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+
+    <TextView
+        android:text="We make"
+        android:textSize="25dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="120dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="better life"
+        android:textSize="25dp"
+        android:layout_marginLeft="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="for HY"
+        android:textSize="25dp"
+        android:layout_marginLeft="120dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="Hanyang Univ. OpenSource Team"
+        android:textSize="10dp"
+        android:layout_marginLeft="120dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

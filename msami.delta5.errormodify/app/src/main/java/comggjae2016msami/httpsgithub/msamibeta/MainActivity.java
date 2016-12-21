@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity {
         bt3.setOnClickListener(listener);
         bt4 = (Button)findViewById(R.id.button4);
         bt4.setOnClickListener(listener);
-        btinfo = (ImageButton)findViewById(R.id.�뼱�뵆�젙蹂�);
-        btinfo.setOnClickListener(listener);
     }
     Button.OnClickListener listener = new Button.OnClickListener()
 
@@ -56,10 +54,6 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.button4:
                     Intent myintent4 = new Intent(MainActivity.this, Button4Activity.class);
                     startActivity(myintent4);
-                    break;
-                case R.id.�뼱�뵆�젙蹂�:
-                    Intent myintent5 = new Intent(MainActivity.this, InfoActivity.class);
-                    startActivity(myintent5);
                     break;
 
 //case臾몄씠 �뱾�뼱媛묐땲�떎
